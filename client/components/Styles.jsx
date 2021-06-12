@@ -101,7 +101,7 @@ export const StatListItemText = styled.div`
 
 export const BioWrapper = styled.div`
   height: ${props => props.expanded ? 'auto' : '100px'};
-  padding-bottom: ${props => props.expanded ? '14px' : '0px'};
+  padding-bottom: ${props => props.expanded ? '30px' : '0px'};
   font-weight: 400;
   line-height: 1.4;
   font-size: 14px;
